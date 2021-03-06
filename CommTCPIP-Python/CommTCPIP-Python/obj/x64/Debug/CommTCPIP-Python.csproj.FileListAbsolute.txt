@@ -1,0 +1,7 @@
+C:\Users\manmu\OneDrive\Máy tính\I Code C# Console\CommTCPIP-Python\CommTCPIP-Python\bin\x64\Debug\CommTCPIP-Python.exe.config
+C:\Users\manmu\OneDrive\Máy tính\I Code C# Console\CommTCPIP-Python\CommTCPIP-Python\bin\x64\Debug\CommTCPIP-Python.exe
+C:\Users\manmu\OneDrive\Máy tính\I Code C# Console\CommTCPIP-Python\CommTCPIP-Python\bin\x64\Debug\CommTCPIP-Python.pdb
+C:\Users\manmu\OneDrive\Máy tính\I Code C# Console\CommTCPIP-Python\CommTCPIP-Python\obj\x64\Debug\CommTCPIP-Python.csprojAssemblyReference.cache
+C:\Users\manmu\OneDrive\Máy tính\I Code C# Console\CommTCPIP-Python\CommTCPIP-Python\obj\x64\Debug\CommTCPIP-Python.csproj.CoreCompileInputs.cache
+C:\Users\manmu\OneDrive\Máy tính\I Code C# Console\CommTCPIP-Python\CommTCPIP-Python\obj\x64\Debug\CommTCPIP-Python.exe
+C:\Users\manmu\OneDrive\Máy tính\I Code C# Console\CommTCPIP-Python\CommTCPIP-Python\obj\x64\Debug\CommTCPIP-Python.pdb
